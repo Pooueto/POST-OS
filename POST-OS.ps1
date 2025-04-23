@@ -4,12 +4,12 @@
     # Powershell 7.5 (LASTEST) ✔️
 
 #PHASE 1 
-    # PATH Windows
+    # PATH Windows ✔️
     # Installer les dependances
+    # Chocolatey (en first pour le $PROFILE) ✔️
         # OH MY POSH
         # fastfetch
         # Scoop
-        # Chocolatey
         # Nvidia
         # git 
         # java 
