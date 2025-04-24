@@ -16,7 +16,7 @@
 
 #PHASE 2
     # Instalation des logiciels 
-        # CHROME
+        # CHROME X
         # Cheat engine
         # iCUE 5
         # Deezer
@@ -27,12 +27,12 @@
         # GOG
         # java 
         # Jdownloader
-        # G Hub
+        # G Hub X
         # Nvidia
         # Notepad ++
         # neovim
         # Python
-        # Rockstar
+        # Rockstar X
         # Steam
         # Steelseries
         # TranslucentTB
