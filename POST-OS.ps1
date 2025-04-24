@@ -7,17 +7,12 @@
     # PATH Windows ✔️
     # Installer les dependances
     # Chocolatey (en first pour le $PROFILE) ✔️
-        # OH MY POSH
-        # fastfetch
-        # Scoop
-        # Nvidia
-        # git 
-        # java 
-        # neovim
-        # Python
-    # Fichier config profile terminal
-    # Recup des scripts dans un dossier
-    # ...
+        # OH MY POSH ✔️
+        # fastfetch ✔️
+        # Scoop 
+    # Fichier config profile terminal ✔️
+    # Recup des scripts dans un dossier ✔️
+    # A FAIRE : Theme terminal et nerd font ✔️
 
 #PHASE 2
     # Instalation des logiciels 
@@ -28,16 +23,21 @@
         # Discord
         # Epic games
         # Filezilla
+        # git 
         # GOG
+        # java 
         # Jdownloader
         # G Hub
-        # VsCode
+        # Nvidia
         # Notepad ++
+        # neovim
+        # Python
         # Rockstar
         # Steam
         # Steelseries
         # TranslucentTB
         # VLC
+        # VsCode
         # VoiceMOD
-        # WinDirStat
         # Winrar
+        # WinDirStat
